@@ -38,20 +38,20 @@ const About = () => {
             </span>
           </div>
 
-          <div className="aboutSectionContainer2">
-            <Typography component="h2">Our Developer(s)</Typography>
-            <Avatar
-              style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
-              src={developerPic}
-              alt="developer"
-            />
-            <a href="https://linkedin.com/in/shubham-11547b237" target="blank">
-              <LinkedInIcon className="LinkedinSvgIcon" />
-            </a>
-            <span>
-              Shubham CSE'24 NIT_KKR
-            </span>
-          </div>
+          // <div className="aboutSectionContainer2">
+          //   <Typography component="h2">Our Developer(s)</Typography>
+          //   <Avatar
+          //     style={{ width: "10vmax", height: "10vmax", margin: "2vmax 0" }}
+          //     src={developerPic}
+          //     alt="developer"
+          //   />
+          //   <a href="https://linkedin.com/in/shubham-11547b237" target="blank">
+          //     <LinkedInIcon className="LinkedinSvgIcon" />
+          //   </a>
+          //   <span>
+          //     Shubham CSE'24 NIT_KKR
+          //   </span>
+          // </div>
 
         </div>
       </div>
